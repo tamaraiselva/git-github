@@ -154,3 +154,7 @@ Overview of git fetch, git push, and git pull:
 ### Additional Resources for Further Learning: 
 
 - Explore online tutorials, documentation, and communities to deepen your understanding of Git.
+
+### References
+
+1. https://www.youtube.com/playlist?list=PLeo1K3hjS3usJuxZZUBdjAcilgfQHkRzW
